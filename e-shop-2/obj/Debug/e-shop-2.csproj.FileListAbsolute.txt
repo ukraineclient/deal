@@ -1,0 +1,6 @@
+C:\code\temp\e-shop-2\e-shop-2\bin\e-shop-2.dll.config
+C:\code\temp\e-shop-2\e-shop-2\bin\e-shop-2.dll
+C:\code\temp\e-shop-2\e-shop-2\bin\e-shop-2.pdb
+C:\code\temp\e-shop-2\e-shop-2\obj\Debug\e-shop-2.csprojResolveAssemblyReference.cache
+C:\code\temp\e-shop-2\e-shop-2\obj\Debug\e-shop-2.dll
+C:\code\temp\e-shop-2\e-shop-2\obj\Debug\e-shop-2.pdb
